@@ -64,7 +64,7 @@ O código também trata **duplicatas**, reduzindo redundância e melhorando a qu
 A etapa de recuperação padrão utiliza:
 
 - `search_type="mmr"`
-- `k = 7`
+- `k `
 - `lambda_mult = 0.45`
 - `score_threshold = 0.25`
 

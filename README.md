@@ -68,5 +68,5 @@ Conteúdos:
 Lista de dependências necessárias para rodar a aplicação em ambiente desktop
 
 ## requirements-raspberrypi.txt
-Lista de dependências necessárias para rodar a aplicação em ambiente desktop
+Lista de dependências necessárias para rodar a aplicação no Raspberry Pi
 

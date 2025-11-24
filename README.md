@@ -56,7 +56,7 @@ Exemplos:
 ## Raspberry-Pi
 Arquivos específicos para execução da aplicação no hardware real.
 
-Possíveis conteúdos:
+Conteúdos:
 - Código adaptado para GPIO
 - Versão embarcada da aplicação RGB
 - Notebook de execução (rasp.ipynb)

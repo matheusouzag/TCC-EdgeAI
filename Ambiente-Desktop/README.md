@@ -58,7 +58,7 @@ Os PDFs são divididos página a página, facilitando:
 
 ## Banco Vetorial e Estratégia de Recuperação
 
-Foi utilizado o **ChromaDB**, com persistência local e busca via **HNSW**.  
+Foi utilizado o **ChromaDB**, com persistência local.  
 O código também trata **duplicatas**, reduzindo redundância e melhorando a qualidade da recuperação.
 
 A etapa de recuperação padrão utiliza:

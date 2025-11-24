@@ -49,6 +49,7 @@ Exemplos:
 - Comparação de embeddings
 - Avaliação de modelos no Raspberry Pi
 - Resultados de testes com contextos de alternativas
+- Testes com os parâmetros Chunk Size e Overlap
 
 ---
 

@@ -26,7 +26,7 @@ class Config:
         r"/home/matheus/Guia Cores RGB.pdf"]  
 
 # Lista de perguntas de benchmark 
-TEST_QUESTIONS = TEST_QUESTIONS = [
+TEST_QUESTIONS = [
     "Qual o código RGB da cor Preto?",
     "Qual o código RGB da cor Cinza muito escuro?",
     "Qual o código RGB da cor Azul céu profundo?",
@@ -77,7 +77,7 @@ def clean_text(text: str) -> str:
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
-# Processamento dos documentos e Vetorstore
+# Processamento dos documentos
 documents = []
 for path in Config.PDF_PATHS:
     try:
